@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-admin" />
+    <file type="web" url="file://$PROJECT_DIR$/soa-consumer-web" />
+    <file type="web" url="file://$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-admin" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/pom.xml" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="ThriftCompiler">
+    <compilers />
+  </component>
+</project>

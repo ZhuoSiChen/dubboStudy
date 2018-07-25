@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="327cd3af-08c6-4ce0-8208-e0cfa107f3f4" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/soa-common/target/" />
+    <ignored path="$PROJECT_DIR$/soa-user/soa-user-core/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/soa-other/soa-other-dubbo-spi/target/" />
+    <ignored path="$PROJECT_DIR$/soa-other/soa-other-dubbo-adpative/target/" />
+    <ignored path="$PROJECT_DIR$/soa-other/soa-other-spring-schema/target/" />
+    <ignored path="$PROJECT_DIR$/soa-product/target/" />
+    <ignored path="$PROJECT_DIR$/soa-order/target/" />
+    <ignored path="$PROJECT_DIR$/soa-product/soa-product-api/target/" />
+    <ignored path="$PROJECT_DIR$/soa-user/target/" />
+    <ignored path="$PROJECT_DIR$/soa-order/soa-order-api/target/" />
+    <ignored path="$PROJECT_DIR$/soa-order/soa-order-core/target/" />
+    <ignored path="$PROJECT_DIR$/soa-trade/soa-trade-api/target/" />
+    <ignored path="$PROJECT_DIR$/soa-consumer-web/target/" />
+    <ignored path="$PROJECT_DIR$/soa-other/target/" />
+    <ignored path="$PROJECT_DIR$/soa-trade/soa-trade-core/target/" />
+    <ignored path="$PROJECT_DIR$/soa-other/soa-other-dubbo-compiler/target/" />
+    <ignored path="$PROJECT_DIR$/soa-doc/target/" />
+    <ignored path="$PROJECT_DIR$/soa-other/soa-other-netty/target/" />
+    <ignored path="$PROJECT_DIR$/soa-trade/target/" />
+    <ignored path="$PROJECT_DIR$/soa-user/soa-user-api/target/" />
+    <ignored path="$PROJECT_DIR$/soa-other/soa-other-zk/target/" />
+    <ignored path="$PROJECT_DIR$/soa-common/soa-common-core/target/" />
+    <ignored path="$PROJECT_DIR$/soa-product/soa-product-core/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-monitor/dubbo-monitor-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-logback/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-test/dubbo-test-compatibility/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-spring/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-test/dubbo-test-benchmark/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-spring/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-registry/dubbo-registry-redis/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-simple/dubbo-registry-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-test/dubbo-test-examples/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-http/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-monitor/dubbo-monitor-default/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-redis/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-injvm/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/hessian-lite/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-test/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-admin/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-registry/dubbo-registry-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-filter/dubbo-filter-validation/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-rmi/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-test/dubbo-test-integration/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-demo/dubbo-demo-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-memcached/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-mina/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-log4j/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-jetty/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-p2p/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-demo/dubbo-demo-provider/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-filter/dubbo-filter-cache/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-hessian/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-http/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-registry/dubbo-registry-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-thrift/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-netty/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-cluster/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-registry/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-registry/dubbo-registry-default/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-webservice/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-filter/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-simple/dubbo-monitor-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-demo/dubbo-demo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-registry/dubbo-registry-multicast/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-grizzly/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-default/target/" />
+    <ignored path="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-demo/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-demo/dubbo-demo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-spring/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-mina/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-monitor/dubbo-monitor-default/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-http/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-filter/dubbo-filter-validation/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-p2p/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-registry/dubbo-registry-multicast/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-default/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-spring/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-log4j/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-filter/dubbo-filter-cache/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-demo/dubbo-demo-provider/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-registry/dubbo-registry-redis/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-registry/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-thrift/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-logback/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-grizzly/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-simple/dubbo-monitor-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-redis/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-netty/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-remoting/dubbo-remoting-http/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-registry/dubbo-registry-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/hessian-lite/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-test/dubbo-test-examples/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-injvm/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-monitor/dubbo-monitor-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-test/dubbo-test-compatibility/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-admin/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-demo/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-demo/dubbo-demo-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-registry/dubbo-registry-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-test/dubbo-test-integration/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-cluster/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-jetty/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-api/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-simple/dubbo-registry-simple/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-webservice/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-test/dubbo-test-benchmark/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-rmi/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-test/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-hessian/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-registry/dubbo-registry-default/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-filter/target/" />
+    <ignored path="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-memcached/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SimpleExt.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ext1/SimpleExt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dubbo-spi" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soa-doc/src/dubbo-spi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Protocol.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/Protocol.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Adaptive.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/Adaptive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="42" column="51" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="42" selection-end-column="51" />
+              <folding>
+                <element signature="e#0#1859#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".project" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soa-common/.project">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".classpath" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soa-consumer-web/.classpath">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="soa-consumer-web.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soa-consumer-web/soa-consumer-web.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logback.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soa-product/soa-product-core/logback.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserFacadeImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/soa-user/soa-user-core/src/main/java/com/soa/user/facade/UserFacadeImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserFacade.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/soa-user/soa-user-api/src/main/java/com/soa/user/facade/UserFacade.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>injectExtension(instance);createExtension</find>
+      <find>createExtension</find>
+      <find>startup date</find>
+      <find>dubbo-demo-provider.xml</find>
+      <find>Log4jC</find>
+      <find>*.xml</find>
+      <find>injectExtension</find>
+      <find>logger</find>
+      <find>getExtension</find>
+      <find>protocol</find>
+      <find>\&lt;\!\-\- 和本地bean一样实现服务 \-\-\&gt;\n</find>
+      <find>ServiceBean</find>
+      <find>Adaptive</find>
+      <find>`</find>
+      <find>EXTENSION_LOADERS</find>
+      <find>networker</find>
+      <find>getEx</find>
+      <find>ProtocolConfig</find>
+      <find>final SPI defaultAnnotation = type.getAnnotation(SPI.class);</find>
+      <find>getExtensionClasses</find>
+      <find>Protocol$</find>
+      <find>Protocol$Adpative</find>
+      <find>getAdaptiveExtensionClass</find>
+      <find>cachedAdaptiveClass</find>
+      <find>createAdaptiveExtensionClass</find>
+      <find>inject</find>
+      <find>objectFactory</find>
+      <find>createAdaptiveExtension</find>
+      <find>Protocol</find>
+      <find>getAdaptiveExtension</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/soa-doc/src/adative-code-templet" />
+        <option value="$PROJECT_DIR$/soa-doc/src/consumer-ref" />
+        <option value="$PROJECT_DIR$/soa-doc/src/consumer-request" />
+        <option value="$PROJECT_DIR$/soa-doc/src/provider-response" />
+        <option value="$PROJECT_DIR$/soa-doc/src/异步-同步" />
+        <option value="$PROJECT_DIR$/soa-doc/src/编解码" />
+        <option value="$PROJECT_DIR$/soa-doc/src/重要概念介绍" />
+        <option value="$PROJECT_DIR$/soa-doc/src/provider-export" />
+        <option value="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-api/src/main/java/com/alibaba/dubbo/container/Main.java" />
+        <option value="$PROJECT_DIR$/../../深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/ExtensionLoader.java" />
+        <option value="$PROJECT_DIR$/soa-doc/src/dubbo-spi.bak" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-api/src/main/java/com/alibaba/dubbo/container/Container.java" />
+        <option value="$PROJECT_DIR$/soa-product/soa-product-core/src/test/java/com/soa/product/ProductMain.java" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/Protocol$Adpative.java" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/resources/META-INF/dubbo/internal/com.alibaba.dubbo.common.extension.ExtensionFactory" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-api/src/main/java/com/alibaba/dubbo/container/Main.java" />
+        <option value="$PROJECT_DIR$/soa-doc/src/dubbo-spi" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/factory/AdaptiveExtensionFactory.java" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-spring/src/main/java/com/alibaba/dubbo/container/spring/SpringContainer.java" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-demo/dubbo-demo-provider/src/main/resources/META-INF/spring/dubbo-demo-provider.xml" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/ProtocolConfig.java" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/ServiceConfig.java" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-rmi/src/main/java/com/alibaba/dubbo/rpc/protocol/rmi/RmiProtocol.java" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/ExtensionLoader.java" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ext6_wrap/WrappedExt.java" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ext1/SimpleExt.java" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/Adaptive.java" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ext1/impl/SimpleExtImpl1.java" />
+        <option value="$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ExtensionLoaderTest.java" />
+        <option value="$PROJECT_DIR$/soa-user/soa-user-api/src/main/java/com/soa/user/facade/UserFacade.java" />
+        <option value="$PROJECT_DIR$/soa-user/soa-user-core/src/main/java/com/soa/user/facade/UserFacadeImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\dev\maven\localRepository" />
+        <option name="mavenHome" value="D:/dev/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\dev\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="hudson" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Hessian Lite(Alibaba embed version)" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Hessian Lite(Alibaba embed version)" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="739" />
+    <option name="y" value="83" />
+    <option name="width" value="958" />
+    <option name="height" value="697" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Finalization issuesJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="soa-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soa-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.10449219" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="D:/dev/nodeJS/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/JavaConcurrent-master" />
+    <property name="SearchEverywhereHistoryKey" value="Protocol&#9;FILE&#9;file://F:/dubbo/dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/Protocol.java&#10;RmiProtocol&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.protocol.rmi.RmiProtocol&#10;Protocol$Adpative&#9;FILE&#9;file://F:/dubbo/dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/Protocol$Adpative.java&#10;protocol&#9;FILE&#9;file://F:/dubbo/dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/Protocol$Adpative.java&#10;Adaptive&#9;FILE&#9;file://F:/dubbo/dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/factory/AdaptiveExtensionFactory.java&#10;ServiceBean&#9;PSI&#9;JAVA://com.alibaba.dubbo.config.spring.ServiceBean&#10;SpringContainer&#9;FILE&#9;file://F:/dubbo/dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-spring/src/main/java/com/alibaba/dubbo/container/spring/SpringContainer.java&#10;Container&#9;FILE&#9;file://F:/dubbo/dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-spring/src/main/resources/META-INF/dubbo/internal/com.alibaba.dubbo.container.Container&#10;Log4jContainer&#9;PSI&#9;JAVA://com.alibaba.dubbo.container.log4j.Log4jContainer&#10;JettyContainer&#9;PSI&#9;JAVA://com.alibaba.dubbo.container.jetty.JettyContainer&#10;SpiExtensionFactory&#9;FILE&#9;file://F:/dubbo/dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/factory/SpiExtensionFactory.java&#10;AdaptiveExtensionFactory&#9;FILE&#9;file://F:/dubbo/dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/factory/AdaptiveExtensionFactory.java&#10;SpringExtensionFactory&#9;FILE&#9;file://F:/dubbo/dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-spring/src/main/java/com/alibaba/dubbo/config/spring/extension/SpringExtensionFactory.java&#10;ExtensionFactory&#9;PSI&#9;JAVA://com.alibaba.dubbo.common.extension.ExtensionFactory&#10;AdaptiveCompiler&#9;FILE&#9;file://F:/dubbo/dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/compiler/support/AdaptiveCompiler.java&#10;com.alibaba.dubbo.common.extension.factory.AdaptiveExtensionFactory&#9;PSI&#9;JAVA://com.alibaba.dubbo.common.extension.factory.AdaptiveExtensionFactory&#10;ValueDeserializer&#9;PSI&#9;JAVA://com.alibaba.com.caucho.hessian.io.ValueDeserializer&#10;MaiN&#9;RUN_CONFIGURATION&#9;Main&#10;ExtensionLoader&#9;FILE&#9;file://F:/深度解剖dubbo源码-课件资料/深度解剖dubbo源码-课件资料/dubbo源码-dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/ExtensionLoader.java" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ExtensionLoaderTest.test_getDefaultExtension">
+    <configuration name="DemoProvider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.dubbo.demo.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.dubbo.demo.provider.DemoProvider" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dubbo-demo-provider" />
+      <envs />
+    </configuration>
+    <configuration name="ExtensionLoaderTest.test_getDefaultExtension" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.dubbo.common.extensionloader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="dubbo-common" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.alibaba.dubbo.common.extensionloader" />
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.dubbo.common.extensionloader.ExtensionLoaderTest" />
+      <option name="METHOD_NAME" value="test_getDefaultExtension" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.alibaba.dubbo.container.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.alibaba.dubbo.container.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dubbo-container-api" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="Application.DemoProvider" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ExtensionLoaderTest.test_getDefaultExtension" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ExtensionLoaderTest.test_getDefaultExtension" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DemoProvider" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="327cd3af-08c6-4ce0-8208-e0cfa107f3f4" name="Default" comment="" />
+      <created>1531139337483</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531139337483</updated>
+      <workItem from="1531139339554" duration="861000" />
+      <workItem from="1531713249300" duration="8005000" />
+      <workItem from="1531791569880" duration="6581000" />
+      <workItem from="1531806948142" duration="5942000" />
+      <workItem from="1531966767029" duration="2704000" />
+      <workItem from="1531981446722" duration="12367000" />
+      <workItem from="1532049748550" duration="6867000" />
+      <workItem from="1532058391160" duration="6084000" />
+      <workItem from="1532309109042" duration="52835000" />
+    </task>
+    <task id="LOCAL-00001" summary="..学习dubbo">
+      <created>1532502644187</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1532502644187</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="102246000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32823366" sideWeight="0.50771207" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17866324" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48261476" sideWeight="0.88239074" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32823366" sideWeight="0.4922879" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3611111" sideWeight="0.72686374" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.4974293" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.4974293" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2281491" sideWeight="0.4820628" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1940874" sideWeight="0.51793724" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.4974293" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290441" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="..学习dubbo" />
+    <option name="LAST_COMMIT_MESSAGE" value="..学习dubbo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-spring/src/main/java/com/alibaba/dubbo/config/spring/schema/DubboNamespaceHandler.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/ServiceConfig.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/ServiceConfig.java</url>
+          <line>60</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/ExtensionLoader.java</url>
+          <line>563</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/ExtensionLoader.java</url>
+          <line>587</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ExtensionLoaderTest.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ExtensionLoaderTest.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/ServiceConfig.java</url>
+          <line>84</line>
+          <properties class="com.alibaba.dubbo.config.ServiceConfig" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="121" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-container/dubbo-container-spring/src/main/java/com/alibaba/dubbo/container/spring/SpringContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-user/soa-user-api/src/main/java/com/soa/user/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-893">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-order/soa-order-api/src/main/java/com/soa/order/domain/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-other/soa-other-spring-schema/src/main/resources/META-INF/people.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-95">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-other/soa-other-spring-schema/src/main/resources/META-INF/spring.handlers">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/ProtocolConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="39" column="19" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-other/soa-other-spring-schema/src/main/java/com/soa/other/spring/schema/MyNamespaceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/MonitorConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-other/soa-other-spring-schema/src/main/resources/META-INF/spring.schemas">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-spring/src/main/java/com/alibaba/dubbo/config/spring/extension/SpringExtensionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="29" column="63" lean-forward="false" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="76" column="42" lean-forward="false" selection-start-line="76" selection-start-column="42" selection-end-line="76" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="152" column="0" lean-forward="true" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/AbstractServiceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="38" column="26" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-demo/dubbo-demo-provider/src/test/resources/log4j.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-demo/dubbo-demo-provider/src/test/resources/dubbo.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/xml/NamespaceHandlerSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/factory/xml/NamespaceHandlerSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="133" column="36" lean-forward="false" selection-start-line="133" selection-start-column="25" selection-end-line="133" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-spring/src/main/java/com/alibaba/dubbo/config/spring/schema/DubboNamespaceHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-spring/src/main/java/com/alibaba/dubbo/config/spring/schema/DubboBeanDefinitionParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-demo/dubbo-demo-provider/src/test/java/com/alibaba/dubbo/demo/provider/DemoProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="e#724#725#0" expanded="false" />
+            <element signature="e#783#784#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-spring/src/main/java/com/alibaba/dubbo/config/spring/ServiceBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="49" column="42" lean-forward="true" selection-start-line="49" selection-start-column="42" selection-end-line="49" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-rmi/src/main/java/com/alibaba/dubbo/rpc/protocol/rmi/RmiProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="33" column="3" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/Protocol$Adpative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="38" column="48" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/factory/AdaptiveExtensionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="31" column="59" lean-forward="false" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+          <folding>
+            <element signature="e#1316#1334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/ExtensionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="31" column="31" lean-forward="true" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ext6_wrap/impl/Ext5Impl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ext6_wrap/WrappedExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/ProxyFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/SPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="56" column="14" lean-forward="true" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/factory/SpiExtensionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="28" column="59" lean-forward="true" selection-start-line="28" selection-start-column="59" selection-end-line="28" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar!/org/hamcrest/CoreMatchers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/Assert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="918" column="33" lean-forward="false" selection-start-line="918" selection-start-column="33" selection-end-line="918" selection-end-column="33" />
+          <folding>
+            <element signature="e#35031#35032#0" expanded="false" />
+            <element signature="e#35078#35079#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ext6_wrap/impl/Ext5Wrapper1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/ExtensionLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="454" column="47" lean-forward="true" selection-start-line="454" selection-start-column="47" selection-end-line="454" selection-end-column="47" />
+          <folding>
+            <element signature="e#2972#2990#0" expanded="true" />
+            <element signature="e#3069#3092#0" expanded="true" />
+            <element signature="e#3176#3194#0" expanded="true" />
+            <element signature="e#3293#3317#0" expanded="true" />
+            <element signature="e#3389#3397#0" expanded="true" />
+            <element signature="e#3688#3719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/NoSpiExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-config/dubbo-config-api/src/main/java/com/alibaba/dubbo/config/ServiceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ext1/impl/SimpleExtImpl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ExtensionLoaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="105" column="13" lean-forward="false" selection-start-line="105" selection-start-column="13" selection-end-line="105" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/URL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="71" column="19" lean-forward="false" selection-start-line="71" selection-start-column="19" selection-end-line="71" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ext6_inject/Ext6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ext6_inject/impl/Ext6Impl1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="27" column="36" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1314#1315#0" expanded="false" />
+            <element signature="e#1374#1375#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/test/java/com/alibaba/dubbo/common/extensionloader/ext1/SimpleExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-doc/src/dubbo-spi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="33" column="44" lean-forward="true" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-rpc/dubbo-rpc-api/src/main/java/com/alibaba/dubbo/rpc/Protocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../dubbo/dubbo-2.5.4/dubbo-dubbo-2.5.4/dubbo-common/src/main/java/com/alibaba/dubbo/common/extension/Adaptive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="42" column="51" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="42" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#1859#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-common/.project">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-consumer-web/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-consumer-web/soa-consumer-web.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-product/soa-product-core/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-user/soa-user-api/src/main/java/com/soa/user/facade/UserFacade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/soa-user/soa-user-core/src/main/java/com/soa/user/facade/UserFacadeImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="46" lean-forward="true" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>soa-consumer-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>soa-trade</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

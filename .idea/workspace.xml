@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf2853eb-b156-4e44-a862-c13fccd6ea5c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-common/soa-common-core/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-doc/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-user/soa-user-core/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-other/soa-other-netty/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-other/soa-other-dubbo-compiler/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-consumer-web/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-product/soa-product-core/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-trade/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-common/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-product/soa-product-api/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-user/soa-user-api/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-order/soa-order-core/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-trade/soa-trade-api/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-other/soa-other-dubbo-adpative/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-trade/soa-trade-core/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-order/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-user/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-product/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-order/soa-order-api/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-other/soa-other-dubbo-spi/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-other/soa-other-spring-schema/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-other/soa-other-zk/target/" />
+    <ignored path="$PROJECT_DIR$/soa-parent/soa-other/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-cluster/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-remoting/dubbo-remoting-grizzly/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-filter/dubbo-filter-cache/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-registry/dubbo-registry-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-container/dubbo-container-spring/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-simple/dubbo-registry-simple/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-filter/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-admin/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-monitor/dubbo-monitor-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-rpc/dubbo-rpc-http/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-registry/dubbo-registry-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-remoting/dubbo-remoting-zookeeper/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-test/dubbo-test-integration/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-simple/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-common/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-registry/dubbo-registry-default/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-remoting/dubbo-remoting-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-rpc/dubbo-rpc-rmi/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-remoting/dubbo-remoting-p2p/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-filter/dubbo-filter-validation/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-demo/dubbo-demo-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-demo/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-config/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-rpc/dubbo-rpc-webservice/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-remoting/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-remoting/dubbo-remoting-netty/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-test/dubbo-test-compatibility/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/hessian-lite/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-rpc/dubbo-rpc-hessian/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-rpc/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-container/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-remoting/dubbo-remoting-mina/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-rpc/dubbo-rpc-redis/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-rpc/dubbo-rpc-default/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-test/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-container/dubbo-container-logback/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-rpc/dubbo-rpc-memcached/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-monitor/dubbo-monitor-default/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-container/dubbo-container-log4j/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-config/dubbo-config-spring/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-demo/dubbo-demo-provider/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-rpc/dubbo-rpc-injvm/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-rpc/dubbo-rpc-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-container/dubbo-container-jetty/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-simple/dubbo-monitor-simple/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-demo/dubbo-demo-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-test/dubbo-test-benchmark/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-registry/dubbo-registry-multicast/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-registry/dubbo-registry-redis/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-registry/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-rpc/dubbo-rpc-thrift/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-test/dubbo-test-examples/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-config/dubbo-config-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-container/dubbo-container-api/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo-remoting/dubbo-remoting-http/target/" />
+    <ignored path="$PROJECT_DIR$/dubbo-2.5.4/dubbo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/soa-parent" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\dev\maven\localRepository" />
+        <option name="mavenHome" value="D:/dev/maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\dev\maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="739" />
+    <option name="y" value="83" />
+    <option name="width" value="958" />
+    <option name="height" value="697" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Compiler issuesJava</id>
+          </State>
+          <State>
+            <id>Finalization issuesJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaBeans issuesJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Verbose or redundant code constructsJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="soa-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="soa-common-core" type="cbb8eebc:String" user="soa-common-core" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="soa-common-core" type="cbb8eebc:String" user="soa-common-core" />
+              <item name="soa-parent/soa-common/soa-common-core" type="cbb8eebc:String" user="soa-parent/soa-common/soa-common-core" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="soa-common-core" type="cbb8eebc:String" user="soa-common-core" />
+              <item name="soa-parent/soa-common/soa-common-core" type="cbb8eebc:String" user="soa-parent/soa-common/soa-common-core" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="soa-common-core" type="cbb8eebc:String" user="soa-common-core" />
+              <item name="soa-parent/soa-common/soa-common-core" type="cbb8eebc:String" user="soa-parent/soa-common/soa-common-core" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main/java" type="cbb8eebc:String" user="main/java" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="soa-common-core" type="cbb8eebc:String" user="soa-common-core" />
+              <item name="soa-parent/soa-common/soa-common-core" type="cbb8eebc:String" user="soa-parent/soa-common/soa-common-core" />
+              <item name="src" type="cbb8eebc:String" user="src" />
+              <item name="main/java" type="cbb8eebc:String" user="main/java" />
+              <item name="com/soa/common/util" type="cbb8eebc:String" user="com/soa/common/util" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.10449219" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="D:/dev/nodeJS/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dubbo-2.5.4" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf2853eb-b156-4e44-a862-c13fccd6ea5c" name="Default" comment="" />
+      <created>1532503239628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532503239628</updated>
+      <workItem from="1532503241702" duration="453000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="453000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4227941" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23071979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290441" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/soa-parent" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/soa-parent/soa-common/soa-common-core/src/main/java/com/soa/common/util/DateTimeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8341">
+          <caret line="451" column="14" lean-forward="false" selection-start-line="451" selection-start-column="14" selection-end-line="451" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>soa-consumer-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dubbo-test-integration</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
