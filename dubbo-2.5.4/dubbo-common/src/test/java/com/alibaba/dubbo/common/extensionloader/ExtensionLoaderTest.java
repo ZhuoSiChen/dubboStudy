@@ -27,6 +27,7 @@ import com.alibaba.dubbo.common.extensionloader.activate.impl.ValueActivateExtIm
 import com.alibaba.dubbo.common.extensionloader.ext1.SimpleExt;
 import com.alibaba.dubbo.common.extensionloader.ext1.impl.SimpleExtImpl1;
 import com.alibaba.dubbo.common.extensionloader.ext1.impl.SimpleExtImpl2;
+import com.alibaba.dubbo.common.extensionloader.ext1.impl.SimpleExtImpl3;
 import com.alibaba.dubbo.common.extensionloader.ext2.Ext2;
 import com.alibaba.dubbo.common.extensionloader.ext6_wrap.WrappedExt;
 import com.alibaba.dubbo.common.extensionloader.ext6_wrap.impl.Ext5Wrapper1;
@@ -77,7 +78,7 @@ public class ExtensionLoaderTest {
         }
     }
 
-    @Test//测试如果不是借口的话抛出IllegalArgumentException
+    @Test//测试如果不是接口的话抛出IllegalArgumentException
     public void test_getExtensionLoader_NotInterface() throws Exception {
         try {
             ExtensionLoader.getExtensionLoader(ExtensionLoaderTest.class);
@@ -105,7 +106,8 @@ public class ExtensionLoaderTest {
     public void test_getDefaultExtension() throws Exception {
         SimpleExt ext = ExtensionLoader.getExtensionLoader(SimpleExt.class).getDefaultExtension();
         assertThat(ext, instanceOf(SimpleExtImpl1.class));
-
+        URL y = new URL();
+        System.out.println(ext.echo(y,"aaa"));
         String name = ExtensionLoader.getExtensionLoader(SimpleExt.class).getDefaultExtensionName();
         assertEquals("impl1", name);
     }
@@ -114,22 +116,25 @@ public class ExtensionLoaderTest {
     public void test_getDefaultExtension_NULL() throws Exception {
         Ext2 ext = ExtensionLoader.getExtensionLoader(Ext2.class).getDefaultExtension();
         assertNull(ext);
-
         String name = ExtensionLoader.getExtensionLoader(Ext2.class).getDefaultExtensionName();
         assertNull(name);
     }
 
-    @Test
+    @Test//这里加载SimpleExt.class回去读取META-INF.dubbo.internal.com.alibaba.dubbo.common.extensionloader.ext1.SimpleExt 文件中SPI的实现
     public void test_getExtension() throws Exception {
         assertTrue(ExtensionLoader.getExtensionLoader(SimpleExt.class).getExtension("impl1") instanceof SimpleExtImpl1);
         assertTrue(ExtensionLoader.getExtensionLoader(SimpleExt.class).getExtension("impl2") instanceof SimpleExtImpl2);
+        assertTrue(ExtensionLoader.getExtensionLoader(SimpleExt.class).getExtension("impl3") instanceof SimpleExtImpl3);
     }
 
     @Test
+    //获取有包装类的扩展对象
+    //再SPI下所有以接口为参数创建的都是wrapper对象
     public void test_getExtension_WithWrapper() throws Exception {
-        WrappedExt impl1 = ExtensionLoader.getExtensionLoader(WrappedExt.class).getExtension("impl1");
+        WrappedExt impl1 = ExtensionLoader.getExtensionLoader(WrappedExt.class).//这里会加载WrappedExt下的SPI文件也就是加载Ext5Impl1,Ext5Impl2,Ext5Wrapper1与Ext5Wrapper2 4个类
+                getExtension("impl1");//impl1=com.alibaba.dubbo.common.extensionloader.ext6_wrap.impl.Ext5Impl1 创建对应SPI类的对象
         assertThat(impl1, anyOf(instanceOf(Ext5Wrapper1.class), instanceOf(Ext5Wrapper2.class)));
-
+        System.out.println(impl1.echo(new URL(),"aaa"));
         WrappedExt impl2 = ExtensionLoader.getExtensionLoader(WrappedExt.class).getExtension("impl2");
         assertThat(impl2, anyOf(instanceOf(Ext5Wrapper1.class), instanceOf(Ext5Wrapper2.class)));
 
@@ -226,8 +231,9 @@ public class ExtensionLoaderTest {
         assertEquals(expected, exts);
     }
 
-    @Test
+    @Test//手动添加扩展的示例
     public void test_AddExtension() throws Exception {
+
         try {
             ExtensionLoader.getExtensionLoader(AddExt1.class).getExtension("Manual1");
             fail();
@@ -259,8 +265,11 @@ public class ExtensionLoaderTest {
         ExtensionLoader<AddExt2> loader = ExtensionLoader.getExtensionLoader(AddExt2.class);
         loader.addExtension(null, AddExt2_ManualAdaptive.class);
 
-        AddExt2 adaptive = loader.getAdaptiveExtension();
+        AddExt2 adaptive = loader.getAdaptiveExtension();//此方法在getExtensionClasses下返回的一个空类
         assertTrue(adaptive instanceof AddExt2_ManualAdaptive);
+        URL url = new URL("p1", "1.2.3.4", 1010, "path1");
+//      URL newUrl = url.addParameter("add.ext2","tttt");
+//      adaptive.echo(url,"aaa");//调用报错.因为没有SPI
     }
 
     @Test

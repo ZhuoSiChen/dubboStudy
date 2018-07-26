@@ -103,7 +103,7 @@ public final class URL implements Serializable {
 
     private volatile transient String string;
 
-    protected URL() {
+    public URL() {
         this.protocol = null;
         this.username = null;
         this.password = null;

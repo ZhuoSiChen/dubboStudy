@@ -516,7 +516,7 @@ public class ExtensionLoader<T> {
                     type + ")  could not be instantiated: " + t.getMessage(), t);
         }
     }
-    // objectFactory(从AdaptiveExtensionFactory或SpiExtensionFactory)拿到set方法注入到
+    // objectFactory(从AdaptiveExtensionFactory或SpiExtensionFactory)拿到set方法注入到objectFactory//作用：进入IOC的反转控制模式，实现了动态注入 就是把管理这个实例的权 交给了AdaptiveExtensionFactory和SpiExtensionFactory
     private T injectExtension(T instance) {
         try {
             if (objectFactory != null) {
@@ -561,7 +561,7 @@ public class ExtensionLoader<T> {
             synchronized (cachedClasses) {
                 classes = cachedClasses.get();
                 if (classes == null) {
-                    classes = loadExtensionClasses();
+                    classes = loadExtensionClasses();//加载spi里对应的类
                     cachedClasses.set(classes);
                 }
             }
@@ -591,6 +591,17 @@ public class ExtensionLoader<T> {
         return extensionClasses;
     }
 
+    /**
+     * 关于loadfile的一些细节
+     * 目的：通过把配置文件META-INF/dubbo/internal/com.alibaba.dubbo.rpc.Protocol的内容，存储在缓存变量里面。
+     * cachedAdaptiveClass//如果这个class含有adative注解就赋值，例如ExtensionFactory，而例如Protocol在这个环节是没有的。
+     * cachedWrapperClasses//只有当该class无adative注解，并且构造函数包含目标接口（type）类型，
+     * 例如protocol里面的spi就只有ProtocolFilterWrapper和ProtocolListenerWrapper能命中
+     * cachedActivates//剩下的类，包含Activate注解
+     * cachedNames//剩下的类就存储在这里。
+     * @param extensionClasses
+     * @param dir
+     */
     private void loadFile(Map<String, Class<?>> extensionClasses, String dir) {
         String fileName = dir + type.getName();
         try {
@@ -627,7 +638,7 @@ public class ExtensionLoader<T> {
                                             line = line.substring(i + 1).trim();
                                         }
                                         if (line.length() > 0) {
-                                            Class<?> clazz = Class.forName(line, true, classLoader);
+                                            Class<?> clazz = Class.forName(line, true, classLoader);//加载spi中的class
                                             if (!type.isAssignableFrom(clazz)) {
                                                 throw new IllegalStateException("Error when load extension class(interface: " +
                                                         type + ", class line: " + clazz.getName() + "), class "
@@ -643,7 +654,7 @@ public class ExtensionLoader<T> {
                                                 }
                                             } else {
                                                 try {
-                                                    clazz.getConstructor(type);
+                                                    clazz.getConstructor(type);//获取包装类的实现
                                                     Set<Class<?>> wrappers = cachedWrapperClasses;
                                                     if (wrappers == null) {
                                                         cachedWrapperClasses = new ConcurrentHashSet<Class<?>>();
@@ -736,7 +747,7 @@ public class ExtensionLoader<T> {
         }
         return cachedAdaptiveClass = createAdaptiveExtensionClass();
     }
-    //创建适应扩展类.1.例如Protocol$Adpative
+    //因为cachedAdaptiveClass为null所以创建类 创建适应扩展类.1.例如Protocol$Adpative
     private Class<?> createAdaptiveExtensionClass() {
         String code = createAdaptiveExtensionClassCode();
         ClassLoader classLoader = findClassLoader();
